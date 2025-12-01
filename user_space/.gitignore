@@ -1,0 +1,8 @@
+# User-space build artifacts
+memalloc
+*.o
+
+# Output files from experiments
+out_*.txt
+*.log
+
